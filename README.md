@@ -8,4 +8,6 @@ tecnologias ultilizadas 👨‍💻 :
 - Javascript;
 
 
-![CalculadoraIMC](https://user-images.githubusercontent.com/98848458/157980193-3da014e7-9aa1-4b41-8fdc-42273990eb50.PNG)
+
+
+![Calculadora imc](https://user-images.githubusercontent.com/98848458/157981330-17a453b2-0947-4fb5-84af-83fea16aa4d5.png)
