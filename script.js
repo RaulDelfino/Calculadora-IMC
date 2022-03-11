@@ -31,7 +31,7 @@ function imc() {
             classificacao = "obesidade grau 3"
         }
         
-        resultado.textContent = `${nome} seu imc é ${valorIMC} , você esta ${classificacao}`
+        resultado.textContent = `${nome} seu imc é ${valorIMC} , você está ${classificacao}`
 
     }else {
         resultado.textContent = "Preencha todos os campos!"
